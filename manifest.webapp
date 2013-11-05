@@ -1,0 +1,17 @@
+{
+"version": "1.0",
+  "name": "Bangla Digital Watch",
+  "description": "Here, you can check the time in Bangla.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/logo-16.png",
+    "48": "/img/logo-48.png",
+  "60": "/img/logo-60.png",
+    "128": "/img/logo-128.png"
+  },
+  "developer": {
+    "name": "S. M. Mohi-Us Sunnat",
+    "url": "https://bdprmr.makes.org/"
+  },
+  "default_locale": "en"
+}

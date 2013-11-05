@@ -1,0 +1,38 @@
+
+/* Tip: Use "@import" to add styles instead of adding <link>'s in your
+   HTML, and volo will inline it when building for production */
+
+/* Styles for the installation button */
+@import "install-button.css";
+
+body{
+background-image:url('/img/back.png');
+background-size:100%;
+background-repeat:no-repeat;
+}
+#hm{
+text-align:Center;      
+font-size:60px;
+margin-top:70px;
+color:#990000;
+}
+#dns{
+text-align:right;
+font-size:30px;
+margin-top:-60px;
+color:#993399;
+}
+#dates{
+text-align:center;
+font-size:30px;
+      color: #B8B8B8;
+    }
+
+#weeks{
+text-align:left;
+font-size:30px;
+margin-top:-230px;
+      color: #3366FF;
+    }
+/* Your styles here */
+

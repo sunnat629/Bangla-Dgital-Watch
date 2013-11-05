@@ -1,0 +1,1 @@
+I am Sunnat. This is my first app for Firefox OS. This is in Bengali language.
